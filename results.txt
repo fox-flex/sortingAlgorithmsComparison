@@ -1,0 +1,347 @@
+Test 1 (random array)
+
+Num of elements : 32
+Selection Sort  : 0.000006s	296comp
+Insertion Sort  : 0.000004s	496comp
+Shell Sort      : 0.000003s	211comp
+Marge Sort      : 0.000005s	160comp
+
+Num of elements : 64
+Selection Sort  : 0.000013s	1016comp
+Insertion Sort  : 0.000010s	2016comp
+Shell Sort      : 0.000009s	570comp
+Marge Sort      : 0.000007s	384comp
+
+Num of elements : 128
+Selection Sort  : 0.000053s	4064comp
+Insertion Sort  : 0.000039s	8128comp
+Shell Sort      : 0.000018s	1414comp
+Marge Sort      : 0.000016s	896comp
+
+Num of elements : 256
+Selection Sort  : 0.000184s	16642comp
+Insertion Sort  : 0.000115s	32640comp
+Shell Sort      : 0.000043s	3827comp
+Marge Sort      : 0.000030s	2048comp
+
+Num of elements : 512
+Selection Sort  : 0.000886s	66553comp
+Insertion Sort  : 0.000519s	130816comp
+Shell Sort      : 0.000115s	10407comp
+Marge Sort      : 0.000065s	4608comp
+
+Num of elements : 1024
+Selection Sort  : 0.002772s	265324comp
+Insertion Sort  : 0.001586s	523776comp
+Shell Sort      : 0.000286s	25967comp
+Marge Sort      : 0.000141s	10240comp
+
+Num of elements : 2048
+Selection Sort  : 0.010746s	1055138comp
+Insertion Sort  : 0.006223s	2096128comp
+Shell Sort      : 0.000831s	75831comp
+Marge Sort      : 0.000316s	22528comp
+
+Num of elements : 4096
+Selection Sort  : 0.047295s	4217847comp
+Insertion Sort  : 0.025975s	8386560comp
+Shell Sort      : 0.002034s	180830comp
+Marge Sort      : 0.000714s	49152comp
+
+Num of elements : 8192
+Selection Sort  : 0.194766s	16829476comp
+Insertion Sort  : 0.148632s	33550336comp
+Shell Sort      : 0.006232s	497984comp
+Marge Sort      : 0.001925s	106496comp
+
+Num of elements : 16384
+Selection Sort  : 0.695041s	67106244comp
+Insertion Sort  : 0.390007s	134209536comp
+Shell Sort      : 0.015098s	1402984comp
+Marge Sort      : 0.003083s	229376comp
+
+Num of elements : 32768
+Selection Sort  : 2.759761s	268322644comp
+Insertion Sort  : 1.563363s	536854528comp
+Shell Sort      : 0.040725s	3800513comp
+Marge Sort      : 0.006577s	491520comp
+
+Num of elements : 65536
+Selection Sort  : 10.989803s	1073472462comp
+Insertion Sort  : 6.206392s	2147450880comp
+Shell Sort      : 0.111757s	10107832comp
+Marge Sort      : 0.014036s	1048576comp
+
+Num of elements : 131072
+Selection Sort  : 43.924106s	4299128956comp
+Insertion Sort  : 27.446375s	8589869056comp
+Shell Sort      : 0.301215s	28398238comp
+Marge Sort      : 0.029720s	2228224comp
+
+Num of elements : 262144
+Selection Sort  : 176.227740s	17179489925comp
+Insertion Sort  : 136.716709s	34359607296comp
+Shell Sort      : 0.857549s	78974071comp
+Marge Sort      : 0.080284s	4718592comp
+======================================
+
+Test 2 (sorted array)
+
+Num of elements : 32
+Selection Sort  : 0.000001s	31comp
+Insertion Sort  : 0.000003s	496comp
+Shell Sort      : 0.000001s	129comp
+Marge Sort      : 0.000004s	160comp
+
+Num of elements : 64
+Selection Sort  : 0.000001s	63comp
+Insertion Sort  : 0.000007s	2016comp
+Shell Sort      : 0.000002s	321comp
+Marge Sort      : 0.000006s	384comp
+
+Num of elements : 128
+Selection Sort  : 0.000001s	127comp
+Insertion Sort  : 0.000026s	8128comp
+Shell Sort      : 0.000004s	769comp
+Marge Sort      : 0.000011s	896comp
+
+Num of elements : 256
+Selection Sort  : 0.000001s	255comp
+Insertion Sort  : 0.000097s	32640comp
+Shell Sort      : 0.000008s	1793comp
+Marge Sort      : 0.000022s	2048comp
+
+Num of elements : 512
+Selection Sort  : 0.000002s	511comp
+Insertion Sort  : 0.000383s	130816comp
+Shell Sort      : 0.000016s	4097comp
+Marge Sort      : 0.000044s	4608comp
+
+Num of elements : 1024
+Selection Sort  : 0.000004s	1023comp
+Insertion Sort  : 0.001506s	523776comp
+Shell Sort      : 0.000036s	9217comp
+Marge Sort      : 0.000095s	10240comp
+
+Num of elements : 2048
+Selection Sort  : 0.000008s	2047comp
+Insertion Sort  : 0.005993s	2096128comp
+Shell Sort      : 0.000078s	20481comp
+Marge Sort      : 0.000207s	22528comp
+
+Num of elements : 4096
+Selection Sort  : 0.000014s	4095comp
+Insertion Sort  : 0.023867s	8386560comp
+Shell Sort      : 0.000171s	45057comp
+Marge Sort      : 0.000441s	49152comp
+
+Num of elements : 8192
+Selection Sort  : 0.000029s	8191comp
+Insertion Sort  : 0.112560s	33550336comp
+Shell Sort      : 0.000380s	98305comp
+Marge Sort      : 0.000927s	106496comp
+
+Num of elements : 16384
+Selection Sort  : 0.000055s	16383comp
+Insertion Sort  : 0.387291s	134209536comp
+Shell Sort      : 0.000815s	212993comp
+Marge Sort      : 0.001998s	229376comp
+
+Num of elements : 32768
+Selection Sort  : 0.000114s	32767comp
+Insertion Sort  : 1.546417s	536854528comp
+Shell Sort      : 0.001751s	458753comp
+Marge Sort      : 0.004210s	491520comp
+
+Num of elements : 65536
+Selection Sort  : 0.000223s	65535comp
+Insertion Sort  : 6.180123s	2147450880comp
+Shell Sort      : 0.003873s	983041comp
+Marge Sort      : 0.008889s	1048576comp
+
+Num of elements : 131072
+Selection Sort  : 0.000442s	131071comp
+Insertion Sort  : 24.870005s	8589869056comp
+Shell Sort      : 0.008001s	2097153comp
+Marge Sort      : 0.019417s	2228224comp
+
+Num of elements : 262144
+Selection Sort  : 0.000880s	262143comp
+Insertion Sort  : 133.866624s	34359607296comp
+Shell Sort      : 0.017130s	4456449comp
+Marge Sort      : 0.041137s	4718592comp
+======================================
+
+Test 3 (reversed array)
+
+Num of elements  : 32
+Selection Sort  : 0.000007s	527comp
+Insertion Sort  : 0.000003s	496comp
+Shell Sort      : 0.000002s	209comp
+Marge Sort      : 0.000004s	160comp
+
+Num of elements  : 64
+Selection Sort  : 0.000022s	2079comp
+Insertion Sort  : 0.000009s	2016comp
+Shell Sort      : 0.000004s	513comp
+Marge Sort      : 0.000005s	384comp
+
+Num of elements  : 128
+Selection Sort  : 0.000088s	8255comp
+Insertion Sort  : 0.000030s	8128comp
+Shell Sort      : 0.000009s	1217comp
+Marge Sort      : 0.000011s	896comp
+
+Num of elements  : 256
+Selection Sort  : 0.000336s	32895comp
+Insertion Sort  : 0.000108s	32640comp
+Shell Sort      : 0.000020s	2817comp
+Marge Sort      : 0.000021s	2048comp
+
+Num of elements  : 512
+Selection Sort  : 0.001339s	131327comp
+Insertion Sort  : 0.000409s	130816comp
+Shell Sort      : 0.000042s	6401comp
+Marge Sort      : 0.000045s	4608comp
+
+Num of elements  : 1024
+Selection Sort  : 0.005308s	524799comp
+Insertion Sort  : 0.001614s	523776comp
+Shell Sort      : 0.000093s	14337comp
+Marge Sort      : 0.000094s	10240comp
+
+Num of elements  : 2048
+Selection Sort  : 0.021266s	2098175comp
+Insertion Sort  : 0.006344s	2096128comp
+Shell Sort      : 0.000205s	31745comp
+Marge Sort      : 0.000210s	22528comp
+
+Num of elements  : 4096
+Selection Sort  : 0.086058s	8390655comp
+Insertion Sort  : 0.025373s	8386560comp
+Shell Sort      : 0.000450s	69633comp
+Marge Sort      : 0.000442s	49152comp
+
+Num of elements  : 8192
+Selection Sort  : 0.340813s	33558527comp
+Insertion Sort  : 0.103387s	33550336comp
+Shell Sort      : 0.001060s	151553comp
+Marge Sort      : 0.000934s	106496comp
+
+Num of elements  : 16384
+Selection Sort  : 1.367262s	134225919comp
+Insertion Sort  : 0.406114s	134209536comp
+Shell Sort      : 0.002109s	327681comp
+Marge Sort      : 0.002027s	229376comp
+
+Num of elements  : 32768
+Selection Sort  : 5.476926s	536887295comp
+Insertion Sort  : 1.617527s	536854528comp
+Shell Sort      : 0.004451s	704513comp
+Marge Sort      : 0.004330s	491520comp
+
+Num of elements  : 65536
+Selection Sort  : 21.922847s	2147516415comp
+Insertion Sort  : 6.525692s	2147450880comp
+Shell Sort      : 0.009403s	1507329comp
+Marge Sort      : 0.009221s	1048576comp
+
+Num of elements  : 131072
+Selection Sort  : 88.313793s	8590000127comp
+Insertion Sort  : 27.591910s	8589869056comp
+Shell Sort      : 0.020051s	3211265comp
+Marge Sort      : 0.019859s	2228224comp
+
+Num of elements  :
+Selection Sort  : 357.929611s	34359869439comp
+Insertion Sort  : 143.923335s	34359607296comp
+Shell Sort      : 0.050371s	6815745comp
+Marge Sort      : 0.053792s	4718592comp
+======================================
+
+Test 4 (random array of 1,2 and 3)
+
+Num of elements : 32
+Selection Sort  : 0.000003s	192comp
+Insertion Sort  : 0.000003s	496comp
+Shell Sort      : 0.000002s	163comp
+Marge Sort      : 0.000003s	160comp
+
+Num of elements : 64
+Selection Sort  : 0.000009s	766comp
+Insertion Sort  : 0.000008s	2016comp
+Shell Sort      : 0.000004s	403comp
+Marge Sort      : 0.000006s	384comp
+
+Num of elements : 128
+Selection Sort  : 0.000029s	2787comp
+Insertion Sort  : 0.000027s	8128comp
+Shell Sort      : 0.000008s	971comp
+Marge Sort      : 0.000013s	896comp
+
+Num of elements : 256
+Selection Sort  : 0.000116s	10936comp
+Insertion Sort  : 0.000108s	32640comp
+Shell Sort      : 0.000017s	2242comp
+Marge Sort      : 0.000024s	2048comp
+
+Num of elements : 512
+Selection Sort  : 0.000467s	43993comp
+Insertion Sort  : 0.000389s	130816comp
+Shell Sort      : 0.000036s	5077comp
+Marge Sort      : 0.000051s	4608comp
+
+Num of elements : 1024
+Selection Sort  : 0.001822s	174034comp
+Insertion Sort  : 0.001525s	523776comp
+Shell Sort      : 0.000077s	11191comp
+Marge Sort      : 0.000111s	10240comp
+
+Num of elements : 2048
+Selection Sort  : 0.007075s	696781comp
+Insertion Sort  : 0.006627s	2096128comp
+Shell Sort      : 0.000167s	25076comp
+Marge Sort      : 0.000234s	22528comp
+
+Num of elements : 4096
+Selection Sort  : 0.028597s	2815048comp
+Insertion Sort  : 0.024084s	8386560comp
+Shell Sort      : 0.000371s	55474comp
+Marge Sort      : 0.000489s	49152comp
+
+Num of elements : 8192
+Selection Sort  : 0.113467s	11197165comp
+Insertion Sort  : 0.096844s	33550336comp
+Shell Sort      : 0.000783s	121514comp
+Marge Sort      : 0.001037s	106496comp
+
+Num of elements : 16384
+Selection Sort  : 0.453605s	44544056comp
+Insertion Sort  : 0.389093s	134209536comp
+Shell Sort      : 0.001621s	258418comp
+Marge Sort      : 0.002201s	229376comp
+
+Num of elements : 32768
+Selection Sort  : 1.822047s	179433613comp
+Insertion Sort  : 1.548591s	536854528comp
+Shell Sort      : 0.003390s	557008comp
+Marge Sort      : 0.004634s	491520comp
+
+Num of elements : 65536
+Selection Sort  : 7.284436s	714514256comp
+Insertion Sort  : 6.213736s	2147450880comp
+Shell Sort      : 0.007322s	1196433comp
+Marge Sort      : 0.009830s	1048576comp
+
+Num of elements : 131072
+Selection Sort  : 29.254017s	2861406075comp
+Insertion Sort  : 26.365617s	8589869056comp
+Shell Sort      : 0.015549s	2570204comp
+Marge Sort      : 0.020674s	2228224comp
+
+Num of elements : 262144
+Selection Sort  : 118.123509s	11433030883comp
+Insertion Sort  : 134.939975s	34359607296comp
+Shell Sort      : 0.033609s	5434346comp
+Marge Sort      : 0.044941s	4718592comp
+======================================
